@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A986610C-1B06-4073-B68C-F2F20772EA18}|Default">
+  <MonoDevelop.Ide.ItemProperties.The__Heros__Journey__POC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="munu3\Properties\AssemblyInfo.cs">
+    <Files>
+      <File FileName="..\gamemunu\gamemunu\Program.cs" Line="57" Column="62" />
+      <File FileName="munu3\Program.cs" Line="429" Column="1" />
+      <File FileName="munu3\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <AuthorInfo Name="Russell Powers" Email="Russell.powers45@gmail.com" Copyright="" Company="BlackFox Studios" Trademark="" />
+</Properties>
